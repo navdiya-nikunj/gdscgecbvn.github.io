@@ -1,5 +1,5 @@
 
-[Copy of Copy of Google Developer Student Clubs  Chapter  _ Blog Post Image](https://github.com/navdiya-nikunj/gdscgecbvn.github.io/assets/106215707/ab2fe036-f277-47a3-8f3c-bb36124f6ae9)
+![Copy of Copy of Google Developer Student Clubs  Chapter  _ Blog Post Image](https://github.com/navdiya-nikunj/gdscgecbvn.github.io/assets/106215707/ab2fe036-f277-47a3-8f3c-bb36124f6ae9)
 
 # Google Developers Student Club - GEC Bhavnagar!
 
