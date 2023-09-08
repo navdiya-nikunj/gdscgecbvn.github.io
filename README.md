@@ -1,14 +1,12 @@
-[![GDSC-ADYPU](https://pbs.twimg.com/profile_banners/1570753275510788101/1663331971/1500x500)](https://gdsc.community.dev/ajeenkya-dy-patil-university-pune/)
 
-# Google Developers Student Club - Ajeenkya D Y Patil
+[Copy of Copy of Google Developer Student Clubs  Chapter  _ Blog Post Image](https://github.com/navdiya-nikunj/gdscgecbvn.github.io/assets/106215707/ab2fe036-f277-47a3-8f3c-bb36124f6ae9)
 
-This is the official GitHub Organization of GDSC-ADYPU. \
-GDSCs are a university-based community group for students interested in Google developer technologies. Students from all UG or PG programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a p2p learning environment and build solutions.
+# Google Developers Student Club - GEC Bhavnagar!
 
 ## Connect with us!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/gdscadypu/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gdscadypu/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/C82pzeAkkh)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gdscadypu)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdsc@adypu.edu.in)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gdsc_gec_bhavnagar/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EKNsvRj6EE)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/GdscGecBvn)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdscgecbhavnagar@gmail.com)
